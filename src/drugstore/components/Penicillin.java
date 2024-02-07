@@ -1,6 +1,6 @@
 package drugstore.components;
 
-import main.drugstore.Component;
+import drugstore.Component;
 
 public class Penicillin extends Component {
     public Penicillin(String title, Double weight, int power) {

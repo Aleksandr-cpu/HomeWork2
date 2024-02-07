@@ -1,6 +1,6 @@
 package drugstore.components;
 
-import main.drugstore.Component;
+import drugstore.Component;
 
 public class Water extends Component {
     public Water(String title, Double weight, int power) {
